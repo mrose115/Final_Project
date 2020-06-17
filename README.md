@@ -14,7 +14,7 @@ Below are some of the charts created in Tableau with the Box Office data from Pr
 <img width="570" alt="opening amounts" src="https://user-images.githubusercontent.com/57542250/84950574-f8e2ea80-b0a3-11ea-8517-3129a3352f21.PNG">
 
 
-<img width="703" alt="opening amount vs total gross" src="https://user-images.githubusercontent.com/57542250/84950586-fe403500-b0a3-11ea-8b9c-a97aec84aad7.PNG">
+<img width="846" alt="opening amount vs total gross" src="https://user-images.githubusercontent.com/57542250/84950901-73136f00-b0a4-11ea-9487-b3a1da97cd39.PNG">
 
 
 <img width="655" alt="various charts" src="https://user-images.githubusercontent.com/57542250/84950599-0304e900-b0a4-11ea-8dcc-eb934b679efc.PNG">
