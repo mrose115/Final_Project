@@ -17,4 +17,7 @@ Below are some of the charts created in Tableau with the Box Office data from Pr
 <img width="846" alt="opening amount vs total gross" src="https://user-images.githubusercontent.com/57542250/84950901-73136f00-b0a4-11ea-9487-b3a1da97cd39.PNG">
 
 
-<img width="655" alt="various charts" src="https://user-images.githubusercontent.com/57542250/84950599-0304e900-b0a4-11ea-8dcc-eb934b679efc.PNG">
+<img width="847" alt="avg opening amount and avg total gross by production company" src="https://user-images.githubusercontent.com/57542250/84951322-20868280-b0a5-11ea-8e92-89138ddbb5ba.PNG">
+
+
+<img width="400" alt="opening weekend and total gross by production company" src="https://user-images.githubusercontent.com/57542250/84951344-267c6380-b0a5-11ea-8a7f-42baff8167d3.PNG">
